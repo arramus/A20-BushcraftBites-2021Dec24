@@ -21,7 +21,7 @@ Recipes are split into 4 main areas, in no particular order as follows:
 ------------------------
 Cooking Pot Food Recipes
 ------------------------
-Bushcraft Tin Can Tucker - Combines 5 canned products that have no recipe. (Skill 2)
+Bushcraft Tin Can Tucker - Combines 5 canned products that have no recipe. (No Skill Requirement)
 Bushcraft Stew - A simple stew requiring less harvestable resources and meat, but needs 'Bushcraft Bone Broth'. (Skill 2)
 Bushcraft Feral Stew - A simple stew requiring less harvestable resources and rotten meat, but needs 'Bushcraft Bone Broth'. (Skill 2)
 Bushcraft Super Vegetable Stew - An enhanced recipe for vegetable stew that requires Super Corn. Gives 5% XP Boost. (Skill 2)
