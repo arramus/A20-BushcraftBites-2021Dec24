@@ -8,7 +8,7 @@ BACKGROUND
 A20 brings a number of changes to the way players acquire and produce their food and drink. It was described as more challenging than A19 during the A20 live streams and feedback from the community has confirmed that.
 In keeping with the A20 changes, Bushcraft Bites provides additional recipes for low level players that focus on the 'hunting and gathering' requirements.
 This means that farming will continue to play a supplementary role while 'foraging' continues to offer the bulk of nutritional resources.
-While players may be able to incorporate farming as skill and game stage builds, Bushcraft Bites will always be there if things get desperate.
+While players may be able to incorporate farming as a progressive skill as game stage builds, Bushcraft Bites will always be there if things get desperate.
 
 =======
 RECIPES
