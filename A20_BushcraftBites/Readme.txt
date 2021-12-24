@@ -47,7 +47,7 @@ Bushcraft Sweet Mead - A medicinal all round pick-me-up. Requires a basic mash a
 -------------
 Recipes Items
 -------------
-Bushcraft Bone Broth - A tasty broth to dip your acorn bread, but also be used in other recipes. (No Skill Requirement)
+Bushcraft Bone Broth - A tasty broth to dip your acorn bread, but can also be used in other recipes. (No Skill Requirement)
 Bushcraft Acorn Meal - A prerequisite for other recipes. (No Skill Requirement)
 
 
